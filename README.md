@@ -36,5 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miskat17&show_icons=true&locale=en" alt="miskat17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miskat17&" alt="miskat17" /></p>
-https://raw.githubusercontent.com/miskat17/cf-stats/main/output/light_card.svg#gh-dark-mode-only
-https://raw.githubusercontent.com/miskat17/cf-stats/main/output/light_card.svg
+![](https://raw.githubusercontent.com/miskat17/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/miskat17/cf-stats/main/output/light_card.svg)
